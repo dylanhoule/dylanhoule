@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="118" viewBox="0 0 700 118" role="img" aria-label="Learning progress: typescript 70%, react 60%, tailwind 80%, sql 50%" font-family="Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12.5">
+<text x="0" y="15" fill="#8b949e">typescript</text>
+<rect x="110" y="6" width="590" height="6" rx="3" fill="#161b22"></rect>
+<rect x="110" y="6" width="0" height="6" rx="3" fill="#3178c6">
+<animate attributeName="width" begin="0.3s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0 0 .2 1" values="0;413"/>
+</rect>
+<text x="0" y="47" fill="#8b949e">react</text>
+<rect x="110" y="38" width="590" height="6" rx="3" fill="#161b22"></rect>
+<rect x="110" y="38" width="0" height="6" rx="3" fill="#61dafb">
+<animate attributeName="width" begin="0.45s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0 0 .2 1" values="0;354"/>
+</rect>
+<text x="0" y="79" fill="#8b949e">tailwind</text>
+<rect x="110" y="70" width="590" height="6" rx="3" fill="#161b22"></rect>
+<rect x="110" y="70" width="0" height="6" rx="3" fill="#38bdf8">
+<animate attributeName="width" begin="0.6s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0 0 .2 1" values="0;472"/>
+</rect>
+<text x="0" y="111" fill="#8b949e">sql</text>
+<rect x="110" y="102" width="590" height="6" rx="3" fill="#161b22"></rect>
+<rect x="110" y="102" width="0" height="6" rx="3" fill="#e34c26">
+<animate attributeName="width" begin="0.75s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0 0 .2 1" values="0;295"/>
+</rect>
+</svg>
