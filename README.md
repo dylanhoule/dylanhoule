@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/dylanhoule/buzz-scheduler">buzz-scheduler</a></b><br/>
-      <sub>Course planner for GT students — conflict detection, shareable schedules.</sub>
+      <b><a href="https://github.com/dylanhoule/spotiwidget">spotiwidget</a></b><br/>
+      <sub>Open-source Spotify widget — connects through WebAPI, lives in the tray.</sub>
     </td>
     <td width="50%">
       <b><a href="https://dylanhoule.dev">dylanhoule.dev</a></b><br/>
@@ -17,19 +17,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/dylanhoule/sql-notes">sql-notes</a></b><br/>
-      <sub>Worked examples from learning SQL — joins, window functions.</sub>
+      <b><a href="https://github.com/dylanhoule/workoutwidget-timer">workoutwidget-timer</a></b><br/>
+      <sub>Workout timer widget, built in Swift.</sub>
     </td>
     <td width="50%">
-      <b><a href="https://github.com/dylanhoule/react-labs">react-labs</a></b><br/>
-      <sub>Sandbox of component patterns and hooks experiments.</sub>
+      <b>your next project</b><br/>
+      <sub>Room for what you're building now — swap this cell in when it ships.</sub>
     </td>
   </tr>
 </table>
 
 ## stack
 
-`typescript` `react` `tailwind` `sql` `node` `git`
+`typescript` `react` `tailwind` `sql` `swift` `node` `git`
 
 ## stats
 
