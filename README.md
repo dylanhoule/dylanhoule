@@ -34,7 +34,7 @@
 ## stats
 
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dylanhoule&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff" alt="Dylan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dylanhoule&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff"/>
   <img height="165" src="https://streak-stats.demolab.com?user=dylanhoule&theme=github-dark&hide_border=true&background=0d1117&ring=3fb950&fire=d29922" alt="GitHub streak" />
 </div>
 
