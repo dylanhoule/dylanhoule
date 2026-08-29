@@ -1,7 +1,9 @@
 <div align="center">
   <img src="readme-assets/terminal.svg" width="760" alt="dylan@gatech:~$ whoami — Dylan Houle, CS @ Georgia Tech. Learning TypeScript, React, Tailwind & SQL" />
 </div>
+
 ## projects
+
 <table>
   <tr>
     <td width="50%">
