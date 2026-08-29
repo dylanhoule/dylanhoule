@@ -21,15 +21,15 @@
       <sub>Workout timer widget, built in Swift.</sub>
     </td>
     <td width="50%">
-      <b>your next project</b><br/>
-      <sub>Room for what you're building now — swap this cell in when it ships.</sub>
+      <b></b><br/>
+      <sub></sub>
     </td>
   </tr>
 </table>
 
 ## stack
 
-`typescript` `react` `tailwind` `sql` `swift` `node` `git`
+`typescript` `react` `tailwind` `sql` `swift` `node` `git` `java`
 
 ## stats
 
