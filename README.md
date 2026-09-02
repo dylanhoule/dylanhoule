@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/dylanhoule/spotiwidget">spotiwidget</a></b><br/>
+      <b><a href="https://github.com/dylanhoule/spotiwidget">Wavebar</a></b><br/>
       <sub>Open-source Spotify widget — connects through WebAPI, lives in the tray.</sub>
     </td>
     <td width="50%">
