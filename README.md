@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/dylanhoule/workoutwidget-timer">workoutwidget-timer</a></b><br/>
-      <sub>Workout timer widget, built in Swift.</sub>
+      <b><a href="https://github.com/dylanhoule/flames">flames</a></b><br/>
+      <sub>Procedurally generated wildland fire simulator from orthographic camera view: Built in typescript with threejs </sub>
     </td>
     <td width="50%">
       <b></b><br/>
@@ -29,7 +29,7 @@
 
 ## stack
 
-`typescript` `react` `tailwind` `sql` `swift` `node` `git` `java`
+`java` `html` `css` `typescript` `javascript` `react` `tailwind` `sql` `git`
 
 ## stats
 
