@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <b><a href="https://github.com/dylanhoule/flames">flames</a></b><br/>
+      <b><a href="https://flames.dylanhoule.dev">flames</a></b><br/>
       <sub>Procedurally generated wildland fire simulator from orthographic camera view: Built in typescript with threejs </sub>
     </td>
     <td width="50%">
